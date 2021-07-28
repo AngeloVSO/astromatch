@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+## 💻 Sobre
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Astromatch é uma rede social que simula o funcionamento do Tinder. Desafio foi proposto e realizado durante um boomtcamp.
+Aqui desenvolvi uma aplicação, onde é possível curtir e descurtir os perfis de usuários disponíveis buscando um match entre eles! Atingido o limite, é possível resetar os usuários limpando os matches. Os usuários são disponibilizados e consumidos de uma API desenvolvida pelo desafio.
 
-## Available Scripts
+<h4 align='center'>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AngeloVSO/astromatch"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AngeloVSO/astromatch">
+</h4>
 
-In the project directory, you can run:
+<h4 align='center'>
+👉 Status: Concluído ✅👏
+</h4>
+<hr />
 
-### `yarn start`
+<img src="https://user-images.githubusercontent.com/70985334/127349626-1296c48d-2f9b-46f5-a9fb-ac01f316a946.png" width="600px" alt="home"/></br></br>
+<img src="https://user-images.githubusercontent.com/70985334/127349657-3fcac6f8-4084-4e2e-90d1-6270388d0f1d.png" width="600px" alt="home"/></br></br>
+<img src="https://user-images.githubusercontent.com/70985334/127349682-059fbe9a-bc62-4db9-9bd5-e4c3b75044ce.png" width="600px" alt="home"/></br></br>
+<img src="https://user-images.githubusercontent.com/70985334/127350243-4476d258-771f-40b5-beed-06fd8ccfe837.png" width="600px" alt="home"/></br></br>
+<img src="https://user-images.githubusercontent.com/70985334/127350294-09b295fc-6c14-4b22-a939-709889f8b019.png" width="600px" alt="home"/></br></br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## ⛏ Tecnologias
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [ReactJS](https://reactjs.org/)
+- [Sytele-Components](https://styled-components.com/)
+- [Axios](https://www.emailjs.com/)
 
-### `yarn test`
+## 🚀 Instalação
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+# Clone o repositório
+$ git clone https://github.com/AngeloVSO/astromatch
+# Entre na pasta do projeto
+$ cd astromatch
 
-### `yarn build`
+# Instale as dependências
+$ npm install / yarn
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Execute a aplicação
+$ npm run start / yarn start
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Abra http://localhost:3000 no seu navegador para ver a aplicação!
+```
+## Feito por:
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/AngeloVSO">
+    <img src="https://avatars.githubusercontent.com/u/70985334?v=4" width="100px" alt="Imagem do perfil do
+    Angelo O'Dwyer"/>
+    <br />
+    <sub><b>Angelo O'Dwyer</b></sub><br /></td>
+</table>
